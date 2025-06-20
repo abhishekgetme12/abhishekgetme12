@@ -5,7 +5,6 @@
 </div>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-
 ## 💡 About Me
 
 I'm a passionate DevOps Engineer who loves building resilient infrastructure, automating everything, and making software delivery faster, better, and more secure. From writing Dockerfiles to spinning up Kubernetes clusters and deploying IaC with Terraform—DevOps is where I thrive.
