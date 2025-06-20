@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek - DevOps Engineer 🚀</h1>
 
 <div align="center">
-  <img src="https://github.com/abhishekgetme12/abhishekgetme12/blob/main/Abhishek_DevOps.jpg" alt="DevOpsShack Banner">
+  <img src="https://github.com/abhishekgetme12/abhishekgetme12/blob/main/Abhishek_DevOps.png" alt="DevOpsShack Banner">
 </div>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
